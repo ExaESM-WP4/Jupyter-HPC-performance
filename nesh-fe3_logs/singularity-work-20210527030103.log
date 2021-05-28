@@ -1,0 +1,30 @@
+nesh-fe3
+2021-05-27_03:01:03_956977923
+[I 2021-05-27 03:01:05.378 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-27 03:01:05.738 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-27 03:01:05.769 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-27 03:01:05.770 LabApp] JupyterLab extension loaded from /miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-27 03:01:05.770 LabApp] JupyterLab application directory is /miniconda3/share/jupyter/lab
+[I 2021-05-27 03:01:05.773 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-27 03:01:05.773 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-27 03:01:05.774 ServerApp] The port 8888 is already in use, trying another port.
+[I 2021-05-27 03:01:05.775 ServerApp] The port 8889 is already in use, trying another port.
+[I 2021-05-27 03:01:05.775 ServerApp] The port 8890 is already in use, trying another port.
+[I 2021-05-27 03:01:05.775 ServerApp] The port 8891 is already in use, trying another port.
+[I 2021-05-27 03:01:05.776 ServerApp] The port 8892 is already in use, trying another port.
+[I 2021-05-27 03:01:05.776 ServerApp] Serving notebooks from local directory: /gxfs_home/geomar/smomw260/github/jupyter-hpc-performance
+[I 2021-05-27 03:01:05.776 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-27 03:01:05.776 ServerApp] http://localhost:8796/lab?token=9fa21724e35ac7f1a0a37f27d4ae96cb9c09bb895bb204dc
+[I 2021-05-27 03:01:05.776 ServerApp]     http://127.0.0.1:8796/lab?token=9fa21724e35ac7f1a0a37f27d4ae96cb9c09bb895bb204dc
+[I 2021-05-27 03:01:05.776 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-27 03:01:05.784 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///gxfs_home/geomar/smomw260/.local/share/jupyter/runtime/jpserver-3184718-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8796/lab?token=9fa21724e35ac7f1a0a37f27d4ae96cb9c09bb895bb204dc
+        http://127.0.0.1:8796/lab?token=9fa21724e35ac7f1a0a37f27d4ae96cb9c09bb895bb204dc
+[I 2021-05-27 03:02:05.834 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-27 03:02:05.835 ServerApp] Shutting down 0 kernels
+[I 2021-05-27 03:02:05.836 ServerApp] Shutting down 0 terminals
+2021-05-27_03:02:06_014335155

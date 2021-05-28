@@ -1,0 +1,27 @@
+nesh-fe3
+2021-05-27_14:00:01_658509444
+[I 2021-05-27 14:00:04.037 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-27 14:00:04.346 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-27 14:00:04.373 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-27 14:00:04.374 LabApp] JupyterLab extension loaded from /miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-27 14:00:04.374 LabApp] JupyterLab application directory is /miniconda3/share/jupyter/lab
+[I 2021-05-27 14:00:04.376 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-27 14:00:04.377 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-27 14:00:04.378 ServerApp] The port 8888 is already in use, trying another port.
+[I 2021-05-27 14:00:04.378 ServerApp] The port 8889 is already in use, trying another port.
+[I 2021-05-27 14:00:04.378 ServerApp] Serving notebooks from local directory: /gxfs_home/geomar/smomw260/github/jupyter-hpc-performance
+[I 2021-05-27 14:00:04.378 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-27 14:00:04.378 ServerApp] http://localhost:8890/lab?token=0f5e396efd11049d17d35665a7b26f1bc7f1c43e154fcb91
+[I 2021-05-27 14:00:04.378 ServerApp]     http://127.0.0.1:8890/lab?token=0f5e396efd11049d17d35665a7b26f1bc7f1c43e154fcb91
+[I 2021-05-27 14:00:04.379 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-27 14:00:04.384 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///gxfs_home/geomar/smomw260/.local/share/jupyter/runtime/jpserver-3479012-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/lab?token=0f5e396efd11049d17d35665a7b26f1bc7f1c43e154fcb91
+        http://127.0.0.1:8890/lab?token=0f5e396efd11049d17d35665a7b26f1bc7f1c43e154fcb91
+[I 2021-05-27 14:01:04.417 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-27 14:01:04.421 ServerApp] Shutting down 0 kernels
+[I 2021-05-27 14:01:04.422 ServerApp] Shutting down 0 terminals
+2021-05-27_14:01:04_582974453

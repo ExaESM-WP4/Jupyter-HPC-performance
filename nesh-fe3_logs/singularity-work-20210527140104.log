@@ -1,0 +1,26 @@
+nesh-fe3
+2021-05-27_14:01:06_473807737
+[I 2021-05-27 14:01:08.353 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-27 14:01:08.662 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-27 14:01:08.689 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-27 14:01:08.690 LabApp] JupyterLab extension loaded from /miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-27 14:01:08.690 LabApp] JupyterLab application directory is /miniconda3/share/jupyter/lab
+[I 2021-05-27 14:01:08.693 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-27 14:01:08.693 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-27 14:01:08.694 ServerApp] The port 8888 is already in use, trying another port.
+[I 2021-05-27 14:01:08.695 ServerApp] Serving notebooks from local directory: /gxfs_home/geomar/smomw260/github/jupyter-hpc-performance
+[I 2021-05-27 14:01:08.695 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-27 14:01:08.695 ServerApp] http://localhost:8889/lab?token=ecbd438299381374adb039fe28fe013572c3d02120ecc6f0
+[I 2021-05-27 14:01:08.695 ServerApp]     http://127.0.0.1:8889/lab?token=ecbd438299381374adb039fe28fe013572c3d02120ecc6f0
+[I 2021-05-27 14:01:08.695 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-27 14:01:08.700 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///gxfs_home/geomar/smomw260/.local/share/jupyter/runtime/jpserver-3479868-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/lab?token=ecbd438299381374adb039fe28fe013572c3d02120ecc6f0
+        http://127.0.0.1:8889/lab?token=ecbd438299381374adb039fe28fe013572c3d02120ecc6f0
+[I 2021-05-27 14:02:08.731 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-27 14:02:08.732 ServerApp] Shutting down 0 kernels
+[I 2021-05-27 14:02:08.732 ServerApp] Shutting down 0 terminals
+2021-05-27_14:02:08_906745575

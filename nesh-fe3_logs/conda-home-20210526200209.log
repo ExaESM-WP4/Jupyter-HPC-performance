@@ -1,0 +1,30 @@
+nesh-fe3
+2021-05-26_20:02:09_448519403
+[I 2021-05-26 20:02:21.292 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-26 20:02:26.302 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-26 20:02:26.467 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-26 20:02:26.468 LabApp] JupyterLab extension loaded from /gxfs_home/geomar/smomw260/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-26 20:02:26.468 LabApp] JupyterLab application directory is /gxfs_home/geomar/smomw260/miniconda3/share/jupyter/lab
+[I 2021-05-26 20:02:26.472 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-26 20:02:26.472 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-26 20:02:26.474 ServerApp] The port 8888 is already in use, trying another port.
+[I 2021-05-26 20:02:26.474 ServerApp] The port 8889 is already in use, trying another port.
+[I 2021-05-26 20:02:26.474 ServerApp] The port 8890 is already in use, trying another port.
+[I 2021-05-26 20:02:26.474 ServerApp] The port 8891 is already in use, trying another port.
+[I 2021-05-26 20:02:26.474 ServerApp] The port 8892 is already in use, trying another port.
+[I 2021-05-26 20:02:26.475 ServerApp] Serving notebooks from local directory: /gxfs_home/geomar/smomw260/github/jupyter-hpc-performance
+[I 2021-05-26 20:02:26.475 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-26 20:02:26.475 ServerApp] http://localhost:8837/lab?token=12efbc02c64bd20b5a3e7c9d4a6d24db1a57a209dc8c2277
+[I 2021-05-26 20:02:26.475 ServerApp]     http://127.0.0.1:8837/lab?token=12efbc02c64bd20b5a3e7c9d4a6d24db1a57a209dc8c2277
+[I 2021-05-26 20:02:26.475 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-26 20:02:26.481 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///gxfs_home/geomar/smomw260/.local/share/jupyter/runtime/jpserver-3148202-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8837/lab?token=12efbc02c64bd20b5a3e7c9d4a6d24db1a57a209dc8c2277
+        http://127.0.0.1:8837/lab?token=12efbc02c64bd20b5a3e7c9d4a6d24db1a57a209dc8c2277
+[I 2021-05-26 20:03:26.534 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-26 20:03:26.535 ServerApp] Shutting down 0 kernels
+[I 2021-05-26 20:03:26.536 ServerApp] Shutting down 0 terminals
+2021-05-26_20:03:26_653395523

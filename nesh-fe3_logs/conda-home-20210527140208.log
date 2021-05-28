@@ -1,0 +1,27 @@
+nesh-fe3
+2021-05-27_14:02:08_926257638
+[I 2021-05-27 14:02:20.511 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-27 14:02:20.523 ServerApp] Writing notebook server cookie secret to /gxfs_home/geomar/smomw260/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2021-05-27 14:02:24.563 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-27 14:02:24.742 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-27 14:02:24.743 LabApp] JupyterLab extension loaded from /gxfs_home/geomar/smomw260/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-27 14:02:24.743 LabApp] JupyterLab application directory is /gxfs_home/geomar/smomw260/miniconda3/share/jupyter/lab
+[I 2021-05-27 14:02:24.748 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-27 14:02:24.749 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-27 14:02:24.750 ServerApp] The port 8888 is already in use, trying another port.
+[I 2021-05-27 14:02:24.750 ServerApp] Serving notebooks from local directory: /gxfs_home/geomar/smomw260/github/jupyter-hpc-performance
+[I 2021-05-27 14:02:24.750 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-27 14:02:24.750 ServerApp] http://localhost:8889/lab?token=5db562c60c5425021072686a6680ef0dadd7e559c84dc3e0
+[I 2021-05-27 14:02:24.750 ServerApp]     http://127.0.0.1:8889/lab?token=5db562c60c5425021072686a6680ef0dadd7e559c84dc3e0
+[I 2021-05-27 14:02:24.750 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-27 14:02:24.758 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///gxfs_home/geomar/smomw260/.local/share/jupyter/runtime/jpserver-3479971-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/lab?token=5db562c60c5425021072686a6680ef0dadd7e559c84dc3e0
+        http://127.0.0.1:8889/lab?token=5db562c60c5425021072686a6680ef0dadd7e559c84dc3e0
+[I 2021-05-27 14:03:24.811 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-27 14:03:24.814 ServerApp] Shutting down 0 kernels
+[I 2021-05-27 14:03:24.814 ServerApp] Shutting down 0 terminals
+2021-05-27_14:03:24_992255000

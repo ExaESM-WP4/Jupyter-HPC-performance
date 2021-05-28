@@ -1,0 +1,31 @@
+nesh-fe3
+2021-05-26_18:00:00_187261725
+[I 2021-05-26 18:00:04.072 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-26 18:00:04.087 ServerApp] Writing notebook server cookie secret to /gxfs_home/geomar/smomw260/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2021-05-26 18:00:04.427 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-26 18:00:04.459 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-26 18:00:04.460 LabApp] JupyterLab extension loaded from /miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-26 18:00:04.460 LabApp] JupyterLab application directory is /miniconda3/share/jupyter/lab
+[I 2021-05-26 18:00:04.463 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-26 18:00:04.464 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-26 18:00:04.465 ServerApp] The port 8888 is already in use, trying another port.
+[I 2021-05-26 18:00:04.465 ServerApp] The port 8889 is already in use, trying another port.
+[I 2021-05-26 18:00:04.466 ServerApp] The port 8890 is already in use, trying another port.
+[I 2021-05-26 18:00:04.466 ServerApp] The port 8891 is already in use, trying another port.
+[I 2021-05-26 18:00:04.466 ServerApp] The port 8892 is already in use, trying another port.
+[I 2021-05-26 18:00:04.467 ServerApp] Serving notebooks from local directory: /gxfs_home/geomar/smomw260/github/jupyter-hpc-performance
+[I 2021-05-26 18:00:04.467 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-26 18:00:04.467 ServerApp] http://localhost:8953/lab?token=6d4e4014ccc151b7cbbb35a6fa26005a4a3b42a24003c727
+[I 2021-05-26 18:00:04.467 ServerApp]     http://127.0.0.1:8953/lab?token=6d4e4014ccc151b7cbbb35a6fa26005a4a3b42a24003c727
+[I 2021-05-26 18:00:04.467 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-26 18:00:04.472 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///gxfs_home/geomar/smomw260/.local/share/jupyter/runtime/jpserver-3109616-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8953/lab?token=6d4e4014ccc151b7cbbb35a6fa26005a4a3b42a24003c727
+        http://127.0.0.1:8953/lab?token=6d4e4014ccc151b7cbbb35a6fa26005a4a3b42a24003c727
+[I 2021-05-26 18:01:04.525 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-26 18:01:04.526 ServerApp] Shutting down 0 kernels
+[I 2021-05-26 18:01:04.527 ServerApp] Shutting down 0 terminals
+2021-05-26_18:01:04_717340942
