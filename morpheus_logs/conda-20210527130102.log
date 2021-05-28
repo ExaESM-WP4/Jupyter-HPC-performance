@@ -1,0 +1,26 @@
+morpheus
+2021-05-27_13:01:02_190814272
+[I 2021-05-27 13:01:02.712 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-27 13:01:02.866 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-27 13:01:02.892 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-27 13:01:02.893 LabApp] JupyterLab extension loaded from /home/khoeflich/jupyter-hpc-performance/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-27 13:01:02.893 LabApp] JupyterLab application directory is /home/khoeflich/jupyter-hpc-performance/miniconda3/share/jupyter/lab
+[I 2021-05-27 13:01:02.896 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-27 13:01:02.898 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-27 13:01:02.898 ServerApp] The port 8888 is already in use, trying another port.
+[I 2021-05-27 13:01:02.899 ServerApp] Serving notebooks from local directory: /home/khoeflich/jupyter-hpc-performance
+[I 2021-05-27 13:01:02.899 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-27 13:01:02.899 ServerApp] http://localhost:8889/lab?token=c7bd3cde05f7ad9769f62ce9a90903c86efe600661e01bc4
+[I 2021-05-27 13:01:02.899 ServerApp]     http://127.0.0.1:8889/lab?token=c7bd3cde05f7ad9769f62ce9a90903c86efe600661e01bc4
+[I 2021-05-27 13:01:02.899 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-27 13:01:02.902 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-602302-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/lab?token=c7bd3cde05f7ad9769f62ce9a90903c86efe600661e01bc4
+        http://127.0.0.1:8889/lab?token=c7bd3cde05f7ad9769f62ce9a90903c86efe600661e01bc4
+[I 2021-05-27 13:02:02.900 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-27 13:02:02.901 ServerApp] Shutting down 0 kernels
+[I 2021-05-27 13:02:02.901 ServerApp] Shutting down 0 terminals
+2021-05-27_13:02:03_004378304

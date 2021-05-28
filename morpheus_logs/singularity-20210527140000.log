@@ -1,0 +1,26 @@
+starter.sh: line 19: module: command not found
+morpheus
+2021-05-27_14:00:00_016356743
+[I 2021-05-27 14:00:01.186 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-27 14:00:01.486 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-27 14:00:01.517 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-27 14:00:01.518 LabApp] JupyterLab extension loaded from /miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-27 14:00:01.518 LabApp] JupyterLab application directory is /miniconda3/share/jupyter/lab
+[I 2021-05-27 14:00:01.521 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-27 14:00:01.522 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-27 14:00:01.523 ServerApp] Serving notebooks from local directory: /home/khoeflich/jupyter-hpc-performance
+[I 2021-05-27 14:00:01.523 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-27 14:00:01.523 ServerApp] http://localhost:8888/lab?token=f20b2804afc98931f882664172b13c9c709fe426566a36cc
+[I 2021-05-27 14:00:01.523 ServerApp]     http://127.0.0.1:8888/lab?token=f20b2804afc98931f882664172b13c9c709fe426566a36cc
+[I 2021-05-27 14:00:01.523 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-27 14:00:01.526 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-604669-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=f20b2804afc98931f882664172b13c9c709fe426566a36cc
+        http://127.0.0.1:8888/lab?token=f20b2804afc98931f882664172b13c9c709fe426566a36cc
+[I 2021-05-27 14:01:01.583 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-27 14:01:01.584 ServerApp] Shutting down 0 kernels
+[I 2021-05-27 14:01:01.584 ServerApp] Shutting down 0 terminals
+2021-05-27_14:01:01_736916577

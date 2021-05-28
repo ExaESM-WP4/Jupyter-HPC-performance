@@ -1,0 +1,27 @@
+starter.sh: line 19: module: command not found
+morpheus
+2021-05-27_13:00:00_538936570
+[I 2021-05-27 13:00:01.654 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-27 13:00:01.942 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-27 13:00:01.971 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-27 13:00:01.972 LabApp] JupyterLab extension loaded from /miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-27 13:00:01.972 LabApp] JupyterLab application directory is /miniconda3/share/jupyter/lab
+[I 2021-05-27 13:00:01.975 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-27 13:00:01.976 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-27 13:00:01.977 ServerApp] The port 8888 is already in use, trying another port.
+[I 2021-05-27 13:00:01.977 ServerApp] Serving notebooks from local directory: /home/khoeflich/jupyter-hpc-performance
+[I 2021-05-27 13:00:01.977 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-27 13:00:01.977 ServerApp] http://localhost:8889/lab?token=92a75540fbea081d91260ad1108e8527e4ca7b66099b05cd
+[I 2021-05-27 13:00:01.977 ServerApp]     http://127.0.0.1:8889/lab?token=92a75540fbea081d91260ad1108e8527e4ca7b66099b05cd
+[I 2021-05-27 13:00:01.977 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-27 13:00:01.981 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-602289-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/lab?token=92a75540fbea081d91260ad1108e8527e4ca7b66099b05cd
+        http://127.0.0.1:8889/lab?token=92a75540fbea081d91260ad1108e8527e4ca7b66099b05cd
+[I 2021-05-27 13:01:02.037 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-27 13:01:02.038 ServerApp] Shutting down 0 kernels
+[I 2021-05-27 13:01:02.038 ServerApp] Shutting down 0 terminals
+2021-05-27_13:01:02_184334154
