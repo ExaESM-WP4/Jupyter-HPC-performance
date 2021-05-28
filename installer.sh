@@ -11,7 +11,7 @@ source ${INSTALL_DIR}/etc/profile.d/conda.sh && conda activate base
 if [ -f requirements.txt ]; then
  conda install -n base -c conda-forge --file requirements.txt --yes
 else
- conda install -n base -c conda-forge jupyterlab --yes
+ conda install -n base -c conda-forge jupyterlab pandas matplotlib --yes
 fi
 
 ${INSTALL_DIR}/bin/conda clean --all --yes
