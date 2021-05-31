@@ -1,0 +1,25 @@
+scalc05
+2021-05-29_01:02:09_584262091
+[I 2021-05-29 01:02:11.391 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-29 01:02:11.988 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-29 01:02:12.058 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-29 01:02:12.059 LabApp] JupyterLab extension loaded from /home/khoeflich/misc/jupyter-hpc-performance/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-29 01:02:12.059 LabApp] JupyterLab application directory is /home/khoeflich/misc/jupyter-hpc-performance/miniconda3/share/jupyter/lab
+[I 2021-05-29 01:02:12.063 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-29 01:02:12.067 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-29 01:02:12.070 ServerApp] Serving notebooks from local directory: /home/khoeflich/misc/jupyter-hpc-performance
+[I 2021-05-29 01:02:12.070 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-29 01:02:12.070 ServerApp] http://localhost:8888/lab?token=48500d4e10234fbd96ae45a29fec03d6b3a010bbe6c2fa97
+[I 2021-05-29 01:02:12.070 ServerApp]     http://127.0.0.1:8888/lab?token=48500d4e10234fbd96ae45a29fec03d6b3a010bbe6c2fa97
+[I 2021-05-29 01:02:12.070 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-29 01:02:12.082 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-172666-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=48500d4e10234fbd96ae45a29fec03d6b3a010bbe6c2fa97
+        http://127.0.0.1:8888/lab?token=48500d4e10234fbd96ae45a29fec03d6b3a010bbe6c2fa97
+[I 2021-05-29 01:03:12.130 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-29 01:03:12.136 ServerApp] Shutting down 0 kernels
+[I 2021-05-29 01:03:12.137 ServerApp] Shutting down 0 terminals
+2021-05-29_01:03:12_267018960

@@ -1,0 +1,25 @@
+scalc05
+2021-05-28_16:02:04_382480366
+[I 2021-05-28 16:02:06.229 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-28 16:02:06.867 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-28 16:02:06.941 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-28 16:02:06.942 LabApp] JupyterLab extension loaded from /home/khoeflich/misc/jupyter-hpc-performance/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-28 16:02:06.942 LabApp] JupyterLab application directory is /home/khoeflich/misc/jupyter-hpc-performance/miniconda3/share/jupyter/lab
+[I 2021-05-28 16:02:06.946 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-28 16:02:06.957 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-28 16:02:06.959 ServerApp] Serving notebooks from local directory: /home/khoeflich/misc/jupyter-hpc-performance
+[I 2021-05-28 16:02:06.959 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-28 16:02:06.959 ServerApp] http://localhost:8888/lab?token=65d6dceb14e085ff04d8d1965aff676e63fa3bb8fb58ed73
+[I 2021-05-28 16:02:06.959 ServerApp]     http://127.0.0.1:8888/lab?token=65d6dceb14e085ff04d8d1965aff676e63fa3bb8fb58ed73
+[I 2021-05-28 16:02:06.959 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-28 16:02:06.967 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-86613-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=65d6dceb14e085ff04d8d1965aff676e63fa3bb8fb58ed73
+        http://127.0.0.1:8888/lab?token=65d6dceb14e085ff04d8d1965aff676e63fa3bb8fb58ed73
+[I 2021-05-28 16:03:06.991 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-28 16:03:06.998 ServerApp] Shutting down 0 kernels
+[I 2021-05-28 16:03:06.999 ServerApp] Shutting down 0 terminals
+2021-05-28_16:03:07_146534208

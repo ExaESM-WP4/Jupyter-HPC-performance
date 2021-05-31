@@ -1,0 +1,26 @@
+scalc05
+2021-05-28_15:00:00_710980920
+[I 2021-05-28 15:00:03.083 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-28 15:00:03.106 ServerApp] Writing notebook server cookie secret to /home/khoeflich/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2021-05-28 15:00:03.519 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-28 15:00:03.560 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-28 15:00:03.561 LabApp] JupyterLab extension loaded from /miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-28 15:00:03.561 LabApp] JupyterLab application directory is /miniconda3/share/jupyter/lab
+[I 2021-05-28 15:00:03.565 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-28 15:00:03.565 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-28 15:00:03.567 ServerApp] Serving notebooks from local directory: /home/khoeflich/misc/jupyter-hpc-performance
+[I 2021-05-28 15:00:03.567 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-28 15:00:03.567 ServerApp] http://localhost:8888/lab?token=2a0b31f50480f3e947dfc94b2d73ff73aaf8d8cc0ec1ce7b
+[I 2021-05-28 15:00:03.567 ServerApp]     http://127.0.0.1:8888/lab?token=2a0b31f50480f3e947dfc94b2d73ff73aaf8d8cc0ec1ce7b
+[I 2021-05-28 15:00:03.567 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-28 15:00:03.574 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-76653-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=2a0b31f50480f3e947dfc94b2d73ff73aaf8d8cc0ec1ce7b
+        http://127.0.0.1:8888/lab?token=2a0b31f50480f3e947dfc94b2d73ff73aaf8d8cc0ec1ce7b
+[I 2021-05-28 15:01:03.631 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-28 15:01:03.640 ServerApp] Shutting down 0 kernels
+[I 2021-05-28 15:01:03.641 ServerApp] Shutting down 0 terminals
+2021-05-28_15:01:03_834440163

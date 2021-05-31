@@ -1,0 +1,25 @@
+scalc05
+2021-05-28_21:02:04_690101896
+[I 2021-05-28 21:02:06.906 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-28 21:02:07.754 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-28 21:02:07.902 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-28 21:02:07.904 LabApp] JupyterLab extension loaded from /home/khoeflich/misc/jupyter-hpc-performance/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-28 21:02:07.904 LabApp] JupyterLab application directory is /home/khoeflich/misc/jupyter-hpc-performance/miniconda3/share/jupyter/lab
+[I 2021-05-28 21:02:07.908 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-28 21:02:07.913 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-28 21:02:07.914 ServerApp] Serving notebooks from local directory: /home/khoeflich/misc/jupyter-hpc-performance
+[I 2021-05-28 21:02:07.914 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-28 21:02:07.914 ServerApp] http://localhost:8888/lab?token=c4726b20e115b50975ef29ce5c5b03f015eb0bffb304caa5
+[I 2021-05-28 21:02:07.914 ServerApp]     http://127.0.0.1:8888/lab?token=c4726b20e115b50975ef29ce5c5b03f015eb0bffb304caa5
+[I 2021-05-28 21:02:07.914 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-28 21:02:07.920 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-134420-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=c4726b20e115b50975ef29ce5c5b03f015eb0bffb304caa5
+        http://127.0.0.1:8888/lab?token=c4726b20e115b50975ef29ce5c5b03f015eb0bffb304caa5
+[I 2021-05-28 21:03:07.974 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-28 21:03:07.987 ServerApp] Shutting down 0 kernels
+[I 2021-05-28 21:03:07.988 ServerApp] Shutting down 0 terminals
+2021-05-28_21:03:08_163004121

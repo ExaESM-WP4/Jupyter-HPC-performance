@@ -1,0 +1,25 @@
+scalc05
+2021-05-28_20:02:04_432704424
+[I 2021-05-28 20:02:06.135 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-28 20:02:06.867 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-28 20:02:06.939 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-28 20:02:06.940 LabApp] JupyterLab extension loaded from /home/khoeflich/misc/jupyter-hpc-performance/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-28 20:02:06.940 LabApp] JupyterLab application directory is /home/khoeflich/misc/jupyter-hpc-performance/miniconda3/share/jupyter/lab
+[I 2021-05-28 20:02:06.944 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-28 20:02:06.949 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-28 20:02:06.950 ServerApp] Serving notebooks from local directory: /home/khoeflich/misc/jupyter-hpc-performance
+[I 2021-05-28 20:02:06.950 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-28 20:02:06.950 ServerApp] http://localhost:8888/lab?token=1a9a4f1369b4b1479f5c5cc8070b3f8cbb379d2545114882
+[I 2021-05-28 20:02:06.950 ServerApp]     http://127.0.0.1:8888/lab?token=1a9a4f1369b4b1479f5c5cc8070b3f8cbb379d2545114882
+[I 2021-05-28 20:02:06.950 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-28 20:02:06.966 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-124853-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=1a9a4f1369b4b1479f5c5cc8070b3f8cbb379d2545114882
+        http://127.0.0.1:8888/lab?token=1a9a4f1369b4b1479f5c5cc8070b3f8cbb379d2545114882
+[I 2021-05-28 20:03:06.995 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-28 20:03:07.006 ServerApp] Shutting down 0 kernels
+[I 2021-05-28 20:03:07.007 ServerApp] Shutting down 0 terminals
+2021-05-28_20:03:07_171531066

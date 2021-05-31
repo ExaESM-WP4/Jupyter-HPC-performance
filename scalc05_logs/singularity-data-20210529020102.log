@@ -1,0 +1,25 @@
+scalc05
+2021-05-29_02:01:02_358325197
+[I 2021-05-29 02:01:03.813 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-29 02:01:04.147 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-29 02:01:04.181 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-29 02:01:04.182 LabApp] JupyterLab extension loaded from /miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-29 02:01:04.182 LabApp] JupyterLab application directory is /miniconda3/share/jupyter/lab
+[I 2021-05-29 02:01:04.185 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-29 02:01:04.185 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-29 02:01:04.186 ServerApp] Serving notebooks from local directory: /home/khoeflich/misc/jupyter-hpc-performance
+[I 2021-05-29 02:01:04.186 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-29 02:01:04.186 ServerApp] http://localhost:8888/lab?token=c2ad95b028285c94362d6d908b64029fcc8bd0f6333d9738
+[I 2021-05-29 02:01:04.186 ServerApp]     http://127.0.0.1:8888/lab?token=c2ad95b028285c94362d6d908b64029fcc8bd0f6333d9738
+[I 2021-05-29 02:01:04.186 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-29 02:01:04.193 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/khoeflich/.local/share/jupyter/runtime/jpserver-182060-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=c2ad95b028285c94362d6d908b64029fcc8bd0f6333d9738
+        http://127.0.0.1:8888/lab?token=c2ad95b028285c94362d6d908b64029fcc8bd0f6333d9738
+[I 2021-05-29 02:02:04.247 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-29 02:02:04.254 ServerApp] Shutting down 0 kernels
+[I 2021-05-29 02:02:04.254 ServerApp] Shutting down 0 terminals
+2021-05-29_02:02:04_411919266

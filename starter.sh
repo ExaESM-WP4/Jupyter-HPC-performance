@@ -16,7 +16,7 @@ date +%F_%T_%N
 elif [ "$MODE" == "2" ]; then
 
 if [ -z "${IMAGE_DIR}" ]; then echo "IMAGE_DIR not provided... exiting."; exit; fi
-module load singularity/3.6.4
+#module load singularity/3.6.4
 
 hostname
 date +%F_%T_%N

@@ -14,11 +14,20 @@ function morpheus_experiments {
  MODE=1 INSTALL_DIR=$PWD/miniconda3 bash starter.sh > ${LOGS_DIR}/conda-$(date +%Y%m%d%H%M%S).log 2>&1
 }
 
-LOGS_DIR=$PWD/morpheus_logs
+function scalc_experiments {
+ MODE=2 IMAGE_DIR=$PWD/jupyter.sif bash starter.sh > ${LOGS_DIR}/singularity-home-$(date +%Y%m%d%H%M%S).log 2>&1
+ MODE=2 IMAGE_DIR=/data/user/khoeflich/jupyter.sif bash starter.sh > ${LOGS_DIR}/singularity-data-$(date +%Y%m%d%H%M%S).log 2>&1
+ MODE=1 INSTALL_DIR=$PWD/miniconda3 bash starter.sh > ${LOGS_DIR}/conda-home-$(date +%Y%m%d%H%M%S).log 2>&1
+ MODE=1 INSTALL_DIR=/data/user/khoeflich/miniconda3 bash starter.sh > ${LOGS_DIR}/conda-data-$(date +%Y%m%d%H%M%S).log 2>&1
+ cp $PWD/jupyter.sif /tmp
+ MODE=2 IMAGE_DIR=/tmp/jupyter.sif bash starter.sh > ${LOGS_DIR}/singularity-tmp-$(date +%Y%m%d%H%M%S).log 2>&1
+}
+
+LOGS_DIR=$PWD/scalc05_logs
 mkdir -p ${LOGS_DIR}
 
 while sleep $(echo ${INTERVAL}-`date "+%s"`%${INTERVAL} | bc); do
- morpheus_experiments
+ scalc_experiments
 done
 
 #
