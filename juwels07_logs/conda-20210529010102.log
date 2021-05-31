@@ -1,0 +1,25 @@
+jwlogin07.juwels
+2021-05-29_01:01:02_477333306
+[I 2021-05-29 01:01:03.872 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-29 01:01:04.070 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-29 01:01:04.127 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-29 01:01:04.128 LabApp] JupyterLab extension loaded from /p/project/cesmtst/hoeflich1/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-29 01:01:04.128 LabApp] JupyterLab application directory is /p/project/cesmtst/hoeflich1/miniconda3/share/jupyter/lab
+[I 2021-05-29 01:01:04.131 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-29 01:01:04.133 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-29 01:01:04.134 ServerApp] Serving notebooks from local directory: /p/home/jusers/hoeflich1/juwels/github/jupyter-hpc-performance
+[I 2021-05-29 01:01:04.134 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-29 01:01:04.134 ServerApp] http://localhost:8888/lab?token=1a423c227f8811cf522d5c4ad512418706ed731ba04a83b7
+[I 2021-05-29 01:01:04.134 ServerApp]     http://127.0.0.1:8888/lab?token=1a423c227f8811cf522d5c4ad512418706ed731ba04a83b7
+[I 2021-05-29 01:01:04.134 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-29 01:01:04.138 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///p/home/jusers/hoeflich1/juwels/.local/share/jupyter/runtime/jpserver-18049-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=1a423c227f8811cf522d5c4ad512418706ed731ba04a83b7
+        http://127.0.0.1:8888/lab?token=1a423c227f8811cf522d5c4ad512418706ed731ba04a83b7
+[I 2021-05-29 01:02:04.195 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-29 01:02:04.195 ServerApp] Shutting down 0 kernels
+[I 2021-05-29 01:02:04.196 ServerApp] Shutting down 0 terminals
+2021-05-29_01:02:04_302059199

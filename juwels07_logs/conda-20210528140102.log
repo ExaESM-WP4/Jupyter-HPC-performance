@@ -1,0 +1,25 @@
+jwlogin07.juwels
+2021-05-28_14:01:02_967453277
+[I 2021-05-28 14:01:14.545 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-28 14:01:16.943 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-28 14:01:17.063 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-28 14:01:17.064 LabApp] JupyterLab extension loaded from /p/project/cesmtst/hoeflich1/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-28 14:01:17.064 LabApp] JupyterLab application directory is /p/project/cesmtst/hoeflich1/miniconda3/share/jupyter/lab
+[I 2021-05-28 14:01:17.079 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-28 14:01:17.083 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-28 14:01:17.084 ServerApp] Serving notebooks from local directory: /p/home/jusers/hoeflich1/juwels/github/jupyter-hpc-performance
+[I 2021-05-28 14:01:17.084 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-28 14:01:17.084 ServerApp] http://localhost:8888/lab?token=f794b0ac2f568da42d9ff6f05db46e60c1eecb2cbebc8983
+[I 2021-05-28 14:01:17.084 ServerApp]     http://127.0.0.1:8888/lab?token=f794b0ac2f568da42d9ff6f05db46e60c1eecb2cbebc8983
+[I 2021-05-28 14:01:17.084 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-28 14:01:17.088 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///p/home/jusers/hoeflich1/juwels/.local/share/jupyter/runtime/jpserver-15734-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=f794b0ac2f568da42d9ff6f05db46e60c1eecb2cbebc8983
+        http://127.0.0.1:8888/lab?token=f794b0ac2f568da42d9ff6f05db46e60c1eecb2cbebc8983
+[I 2021-05-28 14:02:17.145 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-28 14:02:17.146 ServerApp] Shutting down 0 kernels
+[I 2021-05-28 14:02:17.146 ServerApp] Shutting down 0 terminals
+2021-05-28_14:02:17_277984230

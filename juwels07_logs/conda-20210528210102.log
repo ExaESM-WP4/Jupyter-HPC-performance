@@ -1,0 +1,25 @@
+jwlogin07.juwels
+2021-05-28_21:01:02_581429483
+[I 2021-05-28 21:01:03.936 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-28 21:01:04.125 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-28 21:01:04.158 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-28 21:01:04.159 LabApp] JupyterLab extension loaded from /p/project/cesmtst/hoeflich1/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-28 21:01:04.159 LabApp] JupyterLab application directory is /p/project/cesmtst/hoeflich1/miniconda3/share/jupyter/lab
+[I 2021-05-28 21:01:04.162 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-28 21:01:04.164 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-28 21:01:04.165 ServerApp] Serving notebooks from local directory: /p/home/jusers/hoeflich1/juwels/github/jupyter-hpc-performance
+[I 2021-05-28 21:01:04.165 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-28 21:01:04.165 ServerApp] http://localhost:8888/lab?token=7503ffea7efe41ec307992d59627a04ed6a3a427d323b04f
+[I 2021-05-28 21:01:04.165 ServerApp]     http://127.0.0.1:8888/lab?token=7503ffea7efe41ec307992d59627a04ed6a3a427d323b04f
+[I 2021-05-28 21:01:04.165 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-28 21:01:04.222 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///p/home/jusers/hoeflich1/juwels/.local/share/jupyter/runtime/jpserver-4857-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=7503ffea7efe41ec307992d59627a04ed6a3a427d323b04f
+        http://127.0.0.1:8888/lab?token=7503ffea7efe41ec307992d59627a04ed6a3a427d323b04f
+[I 2021-05-28 21:02:04.217 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-28 21:02:04.218 ServerApp] Shutting down 0 kernels
+[I 2021-05-28 21:02:04.218 ServerApp] Shutting down 0 terminals
+2021-05-28_21:02:04_306618469

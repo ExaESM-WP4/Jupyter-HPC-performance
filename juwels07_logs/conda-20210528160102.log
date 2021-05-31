@@ -1,0 +1,25 @@
+jwlogin07.juwels
+2021-05-28_16:01:02_940510635
+[I 2021-05-28 16:01:09.777 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-28 16:01:11.363 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-28 16:01:11.424 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-28 16:01:11.425 LabApp] JupyterLab extension loaded from /p/project/cesmtst/hoeflich1/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-28 16:01:11.425 LabApp] JupyterLab application directory is /p/project/cesmtst/hoeflich1/miniconda3/share/jupyter/lab
+[I 2021-05-28 16:01:11.435 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-28 16:01:11.438 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-28 16:01:11.439 ServerApp] Serving notebooks from local directory: /p/home/jusers/hoeflich1/juwels/github/jupyter-hpc-performance
+[I 2021-05-28 16:01:11.439 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-28 16:01:11.439 ServerApp] http://localhost:8888/lab?token=22d0a8fa55a5ddbcaaa63dd75c4f1a294115aaffdd6db0e5
+[I 2021-05-28 16:01:11.439 ServerApp]     http://127.0.0.1:8888/lab?token=22d0a8fa55a5ddbcaaa63dd75c4f1a294115aaffdd6db0e5
+[I 2021-05-28 16:01:11.439 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-28 16:01:11.442 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///p/home/jusers/hoeflich1/juwels/.local/share/jupyter/runtime/jpserver-5392-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=22d0a8fa55a5ddbcaaa63dd75c4f1a294115aaffdd6db0e5
+        http://127.0.0.1:8888/lab?token=22d0a8fa55a5ddbcaaa63dd75c4f1a294115aaffdd6db0e5
+[I 2021-05-28 16:02:11.499 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-28 16:02:11.500 ServerApp] Shutting down 0 kernels
+[I 2021-05-28 16:02:11.500 ServerApp] Shutting down 0 terminals
+2021-05-28_16:02:11_655391775

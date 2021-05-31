@@ -1,0 +1,25 @@
+jwlogin07.juwels
+2021-05-29_06:01:02_375131347
+[I 2021-05-29 06:01:11.135 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-29 06:01:14.148 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-29 06:01:14.198 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-29 06:01:14.199 LabApp] JupyterLab extension loaded from /p/project/cesmtst/hoeflich1/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-29 06:01:14.199 LabApp] JupyterLab application directory is /p/project/cesmtst/hoeflich1/miniconda3/share/jupyter/lab
+[I 2021-05-29 06:01:14.219 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-29 06:01:14.222 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-29 06:01:14.223 ServerApp] Serving notebooks from local directory: /p/home/jusers/hoeflich1/juwels/github/jupyter-hpc-performance
+[I 2021-05-29 06:01:14.223 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-29 06:01:14.223 ServerApp] http://localhost:8888/lab?token=7cdf733b37a4e867eb7689a7395afb6c6d5e222f4b551155
+[I 2021-05-29 06:01:14.223 ServerApp]     http://127.0.0.1:8888/lab?token=7cdf733b37a4e867eb7689a7395afb6c6d5e222f4b551155
+[I 2021-05-29 06:01:14.223 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-29 06:01:14.236 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///p/home/jusers/hoeflich1/juwels/.local/share/jupyter/runtime/jpserver-25212-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=7cdf733b37a4e867eb7689a7395afb6c6d5e222f4b551155
+        http://127.0.0.1:8888/lab?token=7cdf733b37a4e867eb7689a7395afb6c6d5e222f4b551155
+[I 2021-05-29 06:02:14.283 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-29 06:02:14.285 ServerApp] Shutting down 0 kernels
+[I 2021-05-29 06:02:14.285 ServerApp] Shutting down 0 terminals
+2021-05-29_06:02:14_397545245

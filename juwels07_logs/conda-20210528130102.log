@@ -1,0 +1,25 @@
+jwlogin07.juwels
+2021-05-28_13:01:02_445569591
+[I 2021-05-28 13:01:06.694 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-28 13:01:08.147 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-28 13:01:08.218 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-28 13:01:08.219 LabApp] JupyterLab extension loaded from /p/project/cesmtst/hoeflich1/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-28 13:01:08.219 LabApp] JupyterLab application directory is /p/project/cesmtst/hoeflich1/miniconda3/share/jupyter/lab
+[I 2021-05-28 13:01:08.222 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-28 13:01:08.225 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-28 13:01:08.225 ServerApp] Serving notebooks from local directory: /p/home/jusers/hoeflich1/juwels/github/jupyter-hpc-performance
+[I 2021-05-28 13:01:08.225 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-28 13:01:08.225 ServerApp] http://localhost:8888/lab?token=286b36e0fae547efb3155f9713c33c689ecf2c6c8df8d951
+[I 2021-05-28 13:01:08.225 ServerApp]     http://127.0.0.1:8888/lab?token=286b36e0fae547efb3155f9713c33c689ecf2c6c8df8d951
+[I 2021-05-28 13:01:08.225 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-28 13:01:08.230 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///p/home/jusers/hoeflich1/juwels/.local/share/jupyter/runtime/jpserver-28513-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=286b36e0fae547efb3155f9713c33c689ecf2c6c8df8d951
+        http://127.0.0.1:8888/lab?token=286b36e0fae547efb3155f9713c33c689ecf2c6c8df8d951
+[I 2021-05-28 13:02:08.287 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-28 13:02:08.288 ServerApp] Shutting down 0 kernels
+[I 2021-05-28 13:02:08.288 ServerApp] Shutting down 0 terminals
+2021-05-28_13:02:08_445953063

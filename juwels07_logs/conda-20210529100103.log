@@ -1,0 +1,25 @@
+jwlogin07.juwels
+2021-05-29_10:01:03_033102945
+[I 2021-05-29 10:01:05.448 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-05-29 10:01:05.884 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-05-29 10:01:05.911 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-05-29 10:01:05.912 LabApp] JupyterLab extension loaded from /p/project/cesmtst/hoeflich1/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-29 10:01:05.912 LabApp] JupyterLab application directory is /p/project/cesmtst/hoeflich1/miniconda3/share/jupyter/lab
+[I 2021-05-29 10:01:05.914 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-05-29 10:01:05.917 ServerApp] Will shut down after 60 seconds with no kernels or terminals.
+[I 2021-05-29 10:01:05.918 ServerApp] Serving notebooks from local directory: /p/home/jusers/hoeflich1/juwels/github/jupyter-hpc-performance
+[I 2021-05-29 10:01:05.918 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-05-29 10:01:05.918 ServerApp] http://localhost:8888/lab?token=4696da3cf9b3b1f36ee77bee2571124a5fc31d0bcda68f22
+[I 2021-05-29 10:01:05.918 ServerApp]     http://127.0.0.1:8888/lab?token=4696da3cf9b3b1f36ee77bee2571124a5fc31d0bcda68f22
+[I 2021-05-29 10:01:05.918 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-05-29 10:01:05.921 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///p/home/jusers/hoeflich1/juwels/.local/share/jupyter/runtime/jpserver-27740-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=4696da3cf9b3b1f36ee77bee2571124a5fc31d0bcda68f22
+        http://127.0.0.1:8888/lab?token=4696da3cf9b3b1f36ee77bee2571124a5fc31d0bcda68f22
+[I 2021-05-29 10:02:05.978 ServerApp] No kernels or terminals for 60 seconds; shutting down.
+[I 2021-05-29 10:02:05.979 ServerApp] Shutting down 0 kernels
+[I 2021-05-29 10:02:05.979 ServerApp] Shutting down 0 terminals
+2021-05-29_10:02:06_066258574

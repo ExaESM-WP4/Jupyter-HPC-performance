@@ -23,11 +23,16 @@ function scalc_experiments {
  MODE=2 IMAGE_DIR=/tmp/jupyter.sif bash starter.sh > ${LOGS_DIR}/singularity-tmp-$(date +%Y%m%d%H%M%S).log 2>&1
 }
 
-LOGS_DIR=$PWD/scalc05_logs
+function juwels_experiments {
+ MODE=2 IMAGE_DIR=/p/project/cesmtst/hoeflich1/jupyter.sif bash starter.sh > ${LOGS_DIR}/singularity-$(date +%Y%m%d%H%M%S).log 2>&1
+ MODE=1 INSTALL_DIR=/p/project/cesmtst/hoeflich1/miniconda3 bash starter.sh > ${LOGS_DIR}/conda-$(date +%Y%m%d%H%M%S).log 2>&1
+}
+
+LOGS_DIR=$PWD/juwels07_logs
 mkdir -p ${LOGS_DIR}
 
 while sleep $(echo ${INTERVAL}-`date "+%s"`%${INTERVAL} | bc); do
- scalc_experiments
+ juwels_experiments
 done
 
 #
