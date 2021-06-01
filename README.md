@@ -5,7 +5,7 @@ The distributed storage infrastructure at HPC systems is often optimized for hig
 Especially during times with already high metadata load, the overhead associated with reading and writing operations on lots of small files can become a major bottleneck and very long JupyterLab and/or Jupyter kernel environment start-up times might be experienced.
 
 The intention here was to illustrate the usefulness of containerized Jupyter environments especially on those systems that rely on distributed storage infrastructure.
-A quick analysis of Jupyter start-up times can be viewed [here](./analysis.ipynb).
+A quick analysis of Jupyter start-up time characteristics across several machines is shown in the Jupyter notebook [here](./analysis.ipynb).
 
 ## Deploy logging
 
