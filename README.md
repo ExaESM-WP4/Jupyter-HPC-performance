@@ -1,9 +1,11 @@
 # Jupyter HPC performance
 
 This is a quick project that quantifies the start-up performance of a particular JupyterLab environment across several machines, including a desktop computer, a shared workstation and two high-performance computing systems.
-The major intention was to illustrate the usefulness of containerized Jupyter environments especially on those systems that rely on distributed storage infrastructure.
+The distributed storage infrastructure at HPC systems is often optimized for high throughput I/O rather than low latency I/O.
+Especially during times with already high metadata load, the overhead associated with reading and writing operations on lots of small files can become a major bottleneck and very long JupyterLab and/or Jupyter kernel environment start-up times might be experienced.
 
-The corresponding Jupyter start-up time analysis can be viewed [here](./analysis.ipynb).
+The intention here was to illustrate the usefulness of containerized Jupyter environments especially on those systems that rely on distributed storage infrastructure.
+A quick analysis of Jupyter start-up times can be viewed [here](./analysis.ipynb).
 
 ## Deploy logging
 
