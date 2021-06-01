@@ -30,7 +30,7 @@ kathoef/docker2singularity singularity build jupyter.sif docker-daemon://local/j
 Install miniconda3,
 
 ```
-$ INSTALL_DIR=$PWD/miniconda3 bash installer.sh
+$ INSTALL_DIR=/p/project/cesmtst/hoeflich1/miniconda3 bash installer.sh
 ```
 
 Specify start-up experiments in logger.sh,
