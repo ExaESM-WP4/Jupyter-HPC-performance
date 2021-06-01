@@ -1,4 +1,10 @@
-# jupyter-hpc-performance
+# Jupyter HPC performance
+
+This is a quick project that quantifies the start-up performance of a particular JupyterLab environment across several machines, including a desktop computer, a shared workstation and two high-performance computing systems.
+The major intention was to illustrate the usefulness of containerized Jupyter environments especially on those systems that rely on distributed storage infrastructure.
+The corresponding Jupyter start-up time analysis can be viewed [here](./analysis.ipynb).
+
+## Deploy logging
 
 Docker build,
 
@@ -26,9 +32,17 @@ Install miniconda3,
 $ INSTALL_DIR=$PWD/miniconda3 bash installer.sh
 ```
 
+Specify start-up experiments in logger.sh,
+
+```
+function juwels_experiments {
+ MODE=2 IMAGE_DIR=/p/project/cesmtst/hoeflich1/jupyter.sif bash starter.sh > ${LOGS_DIR}/singularity-$(date +%Y%m%d%H%M%S).log 2>&1
+ MODE=1 INSTALL_DIR=/p/project/cesmtst/hoeflich1/miniconda3 bash starter.sh > ${LOGS_DIR}/conda-$(date +%Y%m%d%H%M%S).log 2>&1
+}
+```
+
 Run logging,
 
 ```
 $ nohup timeout 1d bash logger.sh &
 ```
-
